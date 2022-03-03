@@ -1,0 +1,41 @@
+/* 
+.cont {
+    height: 100vh;
+    display: flex-wrap;
+    align-items: center;
+}
+.left {
+    width: 60%;
+    background-color: red;
+    flex-wrap: wrap;
+}
+.imgcard {
+    margin-top: 0px;
+    /* width: 60%; 
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-right: 10%;
+}
+.image {
+    height: 40%;
+    width: auto;
+    border-radius: 30px;
+    box-shadow: -50px -50px #353839;
+    object-fit: cover;
+    position: relative;
+}
+.right {
+    flex: 1;
+    /* width: '40%', 
+    flex-wrap: wrap;
+}
+.iconContainer {
+    align-items: center;
+    justify-content: center;
+}
+.icon {
+    height: 30px;
+    width: 30px;
+} */
